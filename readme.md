@@ -140,8 +140,3 @@ This project is licensed under the **[MIT License](LICENSE)**.
 
 ---
 
-## **🙏 Acknowledgments**
-
-- Thanks to **Microsoft Azure and Fabric Teams** for powering this hybrid architecture.
-- Gratitude to the **Power BI Team** for enabling next-level business intelligence.
-
