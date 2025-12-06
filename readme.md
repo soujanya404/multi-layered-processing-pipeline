@@ -134,9 +134,4 @@ This architecture is designed to handle **demanding use cases** like:
 
 ---
 
-## **📋 License**
-
-This project is licensed under the **[MIT License](LICENSE)**.
-
----
 
